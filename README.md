@@ -6,7 +6,7 @@ This is a project, builded for education proposes. In this project, we will dive
 There're 3 main cores of this course, and 20 chapters in overall. Following:
 
 📥 Phase 1: NLP Foundations
-Chapter 1.1 Tokenization + Embeddings
+Chapter 1.1 Tokenization and Embeddings
 Chapter 1.2 Word2Vec
 Chapter 1.3 RNN
 Chapter 1.4 LSTM/GRU
